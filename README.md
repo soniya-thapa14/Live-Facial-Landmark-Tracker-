@@ -37,7 +37,10 @@ Tools Used
 Installation and Setup
 
 1. Clone the repository
-
+```bash
+git clone https://github.com/soniya-thapa14/Live-Facial-Landmark-Tracker-.git
+cd Live-Facial-Landmark-Tracker
+```
 
 
 2. Create virtual environment
